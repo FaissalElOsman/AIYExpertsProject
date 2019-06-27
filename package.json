@@ -1,0 +1,25 @@
+{
+  "name": "aiyexpertsproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaissalElOsman/AIYExpertsProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaissalElOsman/AIYExpertsProject/issues"
+  },
+  "homepage": "https://github.com/FaissalElOsman/AIYExpertsProject#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cookie": "^0.4.0",
+    "request": "^2.88.0"
+  }
+}
